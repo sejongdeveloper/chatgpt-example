@@ -25,3 +25,8 @@ pip install -r requirements.txt
 ```
 deactivate
 ```
+
+### .env
+```
+OPENAI_API_KEY="오픈AI 키값"
+```
